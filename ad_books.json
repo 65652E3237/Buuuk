@@ -1,0 +1,2996 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "In Search of Lost Time",
+    "author": "Marcel Proust",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "category": "800 Literature",
+    "genre": "Dark"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J. D. Salinger",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Nineteen Eighty Four",
+    "author": "George Orwell",
+    "category": "800 Literature",
+    "genre": "Dystopian"
+  },
+  {
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J. R. R. Tolkien",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Bible",
+    "author": "Unknown",
+    "category": "800 Literature",
+    "genre": "Mythological"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Magic Mountain",
+    "author": "Thomas Mann",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Middlemarch",
+    "author": "George Eliot",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Mrs. Dalloway",
+    "author": "Virginia Woolf",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Master and Margarita",
+    "author": "Mikhail Bulgakov",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "On the Road",
+    "author": "Jack Kerouac",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Absalom, Absalom!",
+    "author": "William Faulkner",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Midnight's Children",
+    "author": "Salman Rushdie",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Things Fall Apart",
+    "author": "Chinua Achebe",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Journey to the End of The Night",
+    "author": "Louis-Ferdinand Céline",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Red and the Black",
+    "author": "Stendhal",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Fictions",
+    "author": "Jorge Luis Borges",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "One Thousand and One Nights",
+    "author": "Unknown",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "category": "800 Literature",
+    "genre": "Dystopian"
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Life And Opinions Of Tristram Shandy",
+    "author": "Laurence Sterne",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "category": "800 Literature",
+    "genre": "Banned books"
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Their Eyes Were Watching God",
+    "author": "Zora Neale Hurston",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Rebecca",
+    "author": "Daphne du Maurier",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Gone With the Wind",
+    "author": "Margaret Mitchell",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Gulliver's Travels",
+    "author": "Jonathan Swift",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "category": "800 Literature",
+    "genre": "Dark"
+  },
+  {
+    "title": "A Passage to India",
+    "author": "E. M. Forster",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Candide",
+    "author": "Voltaire",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "category": "800 Literature",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "The Aeneid",
+    "author": "Virgil",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "category": "800 Literature",
+    "genre": "Dystopian"
+  },
+  {
+    "title": "Leaves of Grass",
+    "author": "Walt Whitman",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Good Soldier",
+    "author": "Ford Madox Ford",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Leopard",
+    "author": "Giuseppe Tomasi di Lampedusa",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Orlando",
+    "author": "Virginia Woolf",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Portrait of a Lady",
+    "author": "Henry James",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Golden Notebook",
+    "author": "Doris May Lessing",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Essays",
+    "author": "Michel de Montaigne",
+    "category": "300 Social Sciences",
+    "genre": "Cultural"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Oedipus the King",
+    "author": "Sophocles",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Idiot",
+    "author": "Fyodor Dostoevsky",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Castle",
+    "author": "Franz Kafka",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "In Cold Blood",
+    "author": "Truman Capote",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Buddenbrooks",
+    "author": "Thomas Mann",
+    "category": "800 Literature",
+    "genre": "Family & Relationships"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "author": "Erich Maria Remarque",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Age of Innocence",
+    "author": "Edith Wharton",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "A Portrait of the Artist as a Young Man",
+    "author": "James Joyce",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Faust",
+    "author": "Johann Wolfgang von Goethe",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Under the Volcano",
+    "author": "Malcolm Lowry",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "As I Lay Dying",
+    "author": "William Faulkner",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Emma",
+    "author": "Jane Austen",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Silent Spring",
+    "author": "Rachel Carson",
+    "category": "800 Literature",
+    "genre": "Nonfiction"
+  },
+  {
+    "title": "Pale Fire",
+    "author": "Vladimir Nabokov",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "Charlotte's Web",
+    "author": "E. B. White",
+    "category": "800 Literature",
+    "genre": "Children's books"
+  },
+  {
+    "title": "Demons",
+    "author": "Fyodor Dostoevsky",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Robinson Crusoe",
+    "author": "Daniel Defoe",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Bell Jar",
+    "author": "Sylvia Plath",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Waiting for Godot",
+    "author": "Samuel Beckett",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "The Complete Tales and Poems of Edgar Allan Poe",
+    "author": "Edgar Allan Poe",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Plague",
+    "author": "Albert Camus",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Native Son",
+    "author": "Richard Wright",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Vanity Fair",
+    "author": "William Makepeace Thackeray",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Stories of Anton Chekhov",
+    "author": "Anton Chekhov",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Walden",
+    "author": "Henry David Thoreau",
+    "category": "800 Literature",
+    "genre": "Nonfiction"
+  },
+  {
+    "title": "The Man Without Qualities",
+    "author": "Robert Musil",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Long Goodbye",
+    "author": "Raymond Chandler",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Tin Drum",
+    "author": "Günter Grass",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Second Sex",
+    "author": "Simone de Beauvoir",
+    "category": "800 Literature",
+    "genre": "Mythological"
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "Dead Souls",
+    "author": "Nikolai Gogol",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Waste Land",
+    "author": "T. S. Eliot",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "The Talented Mr. Ripley",
+    "author": "Patricia Highsmith",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Wind in the Willows",
+    "author": "Kenneth Grahame",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Brideshead Revisited",
+    "author": "Evelyn Waugh",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Big Sleep",
+    "author": "Raymond Chandler",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "Bleak House",
+    "author": "Charles Dickens",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "A Farewell to Arms",
+    "author": "Ernest Hemingway",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Antigone",
+    "author": "Sophocles",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Heart Is A Lonely Hunter",
+    "author": "Carson McCullers",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Maltese Falcon",
+    "author": "Dashiell Hammett",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "Pedro Páramo",
+    "author": "Juan Rulfo",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "author": "Anthony Burgess",
+    "category": "800 Literature",
+    "genre": "Dark"
+  },
+  {
+    "title": "The Tale of Genji",
+    "author": "Murasaki Shikibu",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Canterbury Tales",
+    "author": "Geoffrey Chaucer",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "King Lear",
+    "author": "William Shakespeare",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Paradise Lost",
+    "author": "John Milton",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Unbearable Lightness of Being",
+    "author": "Milan Kundera",
+    "category": "100 Philosophy & Psychology",
+    "genre": "Existentialist"
+  },
+  {
+    "title": "For Whom the Bell Tolls",
+    "author": "Ernest Hemingway",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Name of the Rose",
+    "author": "Umberto Eco",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "First Folio",
+    "author": "William Shakespeare",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Tess of the d'Urbervilles",
+    "author": "Thomas Hardy",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Memoirs of Hadrian",
+    "author": "Marguerite Yourcenar",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Doctor Faustus",
+    "author": "Thomas Mann",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Wide Sargasso Sea",
+    "author": "Jean Rhys",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "If This Is a Man",
+    "author": "Primo Levi",
+    "category": "300 Social Sciences",
+    "genre": "Cultural"
+  },
+  {
+    "title": "Lady Chatterley's Lover",
+    "author": "D. H. Lawrence",
+    "category": "800 Literature",
+    "genre": "Banned books"
+  },
+  {
+    "title": "Macbeth",
+    "author": "William Shakespeare",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Doctor Zhivago",
+    "author": "Boris Pasternak",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Woman in White",
+    "author": "Wilkie Collins",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Interpretation of Dreams",
+    "author": "Sigmund Freud",
+    "category": "300 Social Sciences",
+    "genre": "Counselling"
+  },
+  {
+    "title": "One Day in the Life of Ivan Denisovich",
+    "author": "Aleksandr Solzhenitsyn",
+    "category": "800 Literature",
+    "genre": "Dystopian"
+  },
+  {
+    "title": "Poems of Emily Dickinson",
+    "author": "Emily Dickinson",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Sons and Lovers",
+    "author": "D. H. Lawrence",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Tom Jones",
+    "author": "Henry Fielding",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Charterhouse of Parma",
+    "author": "Stendhal",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "A Sentimental Education",
+    "author": "Gustave Flaubert",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "The Three Musketeers",
+    "author": "Alexandre Dumas",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Giovanni's Room",
+    "author": "James Baldwin",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Howards End",
+    "author": "E. M. Forster",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "A Room of One's Own",
+    "author": "Virginia Woolf",
+    "category": "800 Literature",
+    "genre": "Modernist"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "author": "Ken Kesey",
+    "category": "800 Literature",
+    "genre": "Banned books"
+  },
+  {
+    "title": "Tender Is the Night",
+    "author": "F. Scott Fitzgerald",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Prince",
+    "author": "Niccolo Machiavelli",
+    "category": "800 Literature",
+    "genre": "Nonfiction"
+  },
+  {
+    "title": "Love in the Time of Cholera",
+    "author": "Gabriel García Márquez",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Harry Potter And The Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Steppenwolf",
+    "author": "Hermann Hesse",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Complete Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "Confessions of Zeno",
+    "author": "Italo Svevo",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Light in August",
+    "author": "William Faulkner",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Decameron",
+    "author": "Giovanni Boccaccio",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Lord Jim",
+    "author": "Joseph Conrad",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Rabbit, Run",
+    "author": "John Updike",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Man's Fate",
+    "author": "Andre Malraux",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Prime of Miss Jean Brodie",
+    "author": "Muriel Spark",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Confessions",
+    "author": "Augustine",
+    "category": "800 Literature",
+    "genre": "Autobiography"
+  },
+  {
+    "title": "White Teeth",
+    "author": "Zadie Smith",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Spy Who Came in From the Cold",
+    "author": "John le Carré",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Metamorphoses",
+    "author": "Ovid",
+    "category": "900 History & Geography",
+    "genre": "Ancient"
+  },
+  {
+    "title": "A Good Man Is Hard to Find",
+    "author": "Flannery O'Connor",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Winnie the Pooh",
+    "author": "A. A. Milne",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Flowers of Evil",
+    "author": "Charles Baudelaire",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Brighton Rock",
+    "author": "Graham Greene",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Corrections",
+    "author": "Jonathan Franzen",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "On the Origin of Species",
+    "author": "Charles Darwin",
+    "category": "000 Generalities",
+    "genre": "Encyclopedic"
+  },
+  {
+    "title": "Fairy Tales and Stories",
+    "author": "Hans Christian Andersen",
+    "category": "800 Literature",
+    "genre": "Children's books"
+  },
+  {
+    "title": "A Wrinkle In Time",
+    "author": "Madeleine L'Engle",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The End of the Affair",
+    "author": "Graham Greene",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Molloy",
+    "author": "Samuel Beckett",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Remains of the Day",
+    "author": "Kazuo Ishiguro",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "An American Tragedy",
+    "author": "Theodore Dreiser",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Good Soldier Svejk",
+    "author": "Jaroslav Hašek",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "Watership Down",
+    "author": "Richard Adams",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Counterfeiters",
+    "author": "André Gide",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Autobiography of Malcolm X",
+    "author": "Alex Haley",
+    "category": "800 Literature",
+    "genre": "Autobiography"
+  },
+  {
+    "title": "Fathers and Sons",
+    "author": "Ivan Turgenev",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Atonement",
+    "author": "Ian McEwan",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Berlin Alexanderplatz",
+    "author": "Alfred Döblin",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "My Antonia",
+    "author": "Willa Cather",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Gargantua and Pantagruel",
+    "author": "Francois Rabelais",
+    "category": "800 Literature",
+    "genre": "Dark"
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "A House for Mr. Biswas",
+    "author": "V. S. Naipaul",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Once and Future King",
+    "author": "T. H. White",
+    "category": "800 Literature",
+    "genre": "Arthurian"
+  },
+  {
+    "title": "U.S.A. Trilogy",
+    "author": "John Dos Passos",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "Communist Manifesto",
+    "author": "Karl Marx, Friedrich Engels",
+    "category": "800 Literature",
+    "genre": "Nonfiction"
+  },
+  {
+    "title": "Bonjour Tristesse",
+    "author": "Francoise Sagan",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "All the King's Men",
+    "author": "Robert Penn Warren",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "A Confederacy of Dunces",
+    "author": "John Kennedy Toole",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "Blood Meridian",
+    "author": "Cormac McCarthy",
+    "category": "800 Literature",
+    "genre": "Dark"
+  },
+  {
+    "title": "A Christmas Carol",
+    "author": "Charles Dickens",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Anne of Green Gables",
+    "author": "L. M. Montgomery",
+    "category": "800 Literature",
+    "genre": "Children's books"
+  },
+  {
+    "title": "Disgrace",
+    "author": "J. M. Coetzee",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Murder of Roger Ackroyd",
+    "author": "Agatha Christie",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "category": "800 Literature",
+    "genre": "Apocalyptic"
+  },
+  {
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "A Wizard of Earthsea",
+    "author": "Ursula K. Le Guin",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Women in Love",
+    "author": "D. H. Lawrence",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Life of Samuel Johnson",
+    "author": "James Boswell",
+    "category": "800 Literature",
+    "genre": "Biography"
+  },
+  {
+    "title": "The Lion, The Witch and the Wardrobe",
+    "author": "C. S. Lewis",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Of Human Bondage",
+    "author": "W. Somerset Maugham",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The House of Mirth",
+    "author": "Edith Wharton",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Hunger",
+    "author": "Knut Hamsun",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Democracy in America",
+    "author": "Alexis de Tocqueville",
+    "category": "300 Social Sciences",
+    "genre": "Cultural"
+  },
+  {
+    "title": "Zorba the Greek",
+    "author": "Nikos Kazantzakis",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Republic",
+    "author": "Plato",
+    "category": "900 History & Geography",
+    "genre": "Ancient"
+  },
+  {
+    "title": "The Tempest",
+    "author": "William Shakespeare",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Nausea",
+    "author": "Jean Paul Sartre",
+    "category": "800 Literature",
+    "genre": "Dark"
+  },
+  {
+    "title": "The Turn of the Screw",
+    "author": "Henry James",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "A Season in Hell",
+    "author": "Arthur Rimbaud",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "2666",
+    "author": "Roberto Bolaño",
+    "category": "000 Generalities",
+    "genre": "Encyclopedic"
+  },
+  {
+    "title": "Finnegans Wake",
+    "author": "James Joyce",
+    "category": "000 Generalities",
+    "genre": "Encyclopedic"
+  },
+  {
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "Collected Poems of W. B. Yeats",
+    "author": "William Butler Yeats",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Invisible Cities",
+    "author": "Italo Calvino",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Tropic of Cancer",
+    "author": "Henry Miller",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Amazing Adventures of Kavalier and Clay",
+    "author": "Michael Chabon",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Death of Virgil",
+    "author": "Hermann Broch",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Out of Africa",
+    "author": "Isak Dinesen",
+    "category": "300 Social Sciences",
+    "genre": "Cultural"
+  },
+  {
+    "title": "The Jungle",
+    "author": "Upton Sinclair",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Stand",
+    "author": "Stephen King",
+    "category": "800 Literature",
+    "genre": "Apocalyptic"
+  },
+  {
+    "title": "Malone Dies",
+    "author": "Samuel Beckett",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The World According to Garp",
+    "author": "John Irving",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Moviegoer",
+    "author": "Walker Percy",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Forsyte Saga",
+    "author": "John Galsworthy",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Austerlitz",
+    "author": "W. G. Sebald",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "The Book of Disquiet",
+    "author": "Fernando Pessoa",
+    "category": "800 Literature",
+    "genre": "Diaries & Journals"
+  },
+  {
+    "title": "Franz Kafka",
+    "author": "Franz Kafka",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "The Tartar Steppe",
+    "author": "Dino Buzzati",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Uncle Tom's Cabin",
+    "author": "Harriet Beecher Stowe",
+    "category": "800 Literature",
+    "genre": "Banned books"
+  },
+  {
+    "title": "The Gulag Archipelago",
+    "author": "Aleksandr Solzhenitsyn",
+    "category": "800 Literature",
+    "genre": "Memoir"
+  },
+  {
+    "title": "The Godfather",
+    "author": "Mario Puzo",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "Dangerous Liaison",
+    "author": "Pierre Choderlos de Laclos",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Medea",
+    "author": "Euripides",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Oblomov",
+    "author": "Ivan Goncharov",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Double Helix",
+    "author": "James D. Watson",
+    "category": "800 Literature",
+    "genre": "Biography"
+  },
+  {
+    "title": "The Adventures of Augie March",
+    "author": "Saul Bellow",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Epic Of Gilgamesh",
+    "author": "Unknown",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Life, a User's Manual",
+    "author": "Georges Perec",
+    "category": "000 Generalities",
+    "genre": "Encyclopedic"
+  },
+  {
+    "title": "Darkness at Noon",
+    "author": "Arthur Koestler",
+    "category": "800 Literature",
+    "genre": "Dystopian"
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "author": "C. S. Lewis",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Power and the Glory",
+    "author": "Graham Greene",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Radetzky March",
+    "author": "Joseph Roth",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Are You There God? It's Me, Margaret",
+    "author": "Judy Blume",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Nostromo",
+    "author": "Joseph Conrad",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Babbitt",
+    "author": "Sinclair Lewis",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Look Homeward, Angel",
+    "author": "Thomas Wolfe",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Life and Fate",
+    "author": "Vasily Grossman",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Independent People",
+    "author": "Halldor Laxness",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Thus Spake Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Waves",
+    "author": "Virginia Woolf",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "Naked Lunch",
+    "author": "William S. Burroughs",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "The Alexandria Quartet",
+    "author": "Lawrence Durrell",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Confessions of Jean-Jacques Rousseau",
+    "author": "Jean-Jacques Rousseau",
+    "category": "800 Literature",
+    "genre": "Autobiography"
+  },
+  {
+    "title": "A Hero of Our Time",
+    "author": "Mikhail Lermontov",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "A Tree Grows in Brooklyn",
+    "author": "Betty Smith",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Lover",
+    "author": "Marguerite Duras",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Gravity's Rainbow",
+    "author": "Thomas Pynchon",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Left Hand Of Darkness",
+    "author": "Ursula K. Le Guin",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Time Machine",
+    "author": "H. G. Wells",
+    "category": "800 Literature",
+    "genre": "Dystopian"
+  },
+  {
+    "title": "Herzog",
+    "author": "Saul Bellow",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Bonfire of the Vanities",
+    "author": "Tom Wolfe",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Pippi Longstocking",
+    "author": "Astrid Lindgren",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "category": "800 Literature",
+    "genre": "Dystopian"
+  },
+  {
+    "title": "The Posthumous Memoirs of Bras Cubas",
+    "author": "Machado de Assis",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Ambassadors",
+    "author": "Henry James",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Complete Stories of Flannery O'Connor",
+    "author": "Flannery O'Connor",
+    "category": "800 Literature",
+    "genre": "Dark Humor"
+  },
+  {
+    "title": "The Pickwick Papers",
+    "author": "Charles Dickens",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "author": "Robert Louis Stevenson",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Nightwood",
+    "author": "Djuna Barnes",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "Oresteia",
+    "author": "Aeschylus",
+    "category": "900 History & Geography",
+    "genre": "Ancient"
+  },
+  {
+    "title": "The House of the Spirits",
+    "author": "Isabel Allende",
+    "category": "800 Literature",
+    "genre": "Family & Relationships"
+  },
+  {
+    "title": "The Year of Magical Thinking",
+    "author": "Joan Didion",
+    "category": "800 Literature",
+    "genre": "Family & Relationships"
+  },
+  {
+    "title": "The Death of Ivan Ilyich",
+    "author": "Leo Tolstoy",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Autobiography of Alice B. Toklas",
+    "author": "Gertrude Stein",
+    "category": "800 Literature",
+    "genre": "Biography"
+  },
+  {
+    "title": "Winesburg, Ohio",
+    "author": "Sherwood Anderson",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Leviathan",
+    "author": "Thomas Hobbes",
+    "category": "800 Literature",
+    "genre": "Nonfiction"
+  },
+  {
+    "title": "Man's Search for Meaning",
+    "author": "Viktor Frankl",
+    "category": "300 Social Sciences",
+    "genre": "Counselling"
+  },
+  {
+    "title": "Wings of the Dove",
+    "author": "Henry James",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Lucky Jim",
+    "author": "Kingsley Amis",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Song of Solomon",
+    "author": "Toni Morrison",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Cry, the Beloved Country",
+    "author": "Alan Paton",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Good Earth",
+    "author": "Pearl S. Buck",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Mahabharata",
+    "author": "Vyasa",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Father Goriot",
+    "author": "Honoré de Balzac",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Private Memoirs and Confessions of a Justified Sinner",
+    "author": "James Hogg",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "White Noise",
+    "author": "Don DeLillo",
+    "category": "800 Literature",
+    "genre": "Dark"
+  },
+  {
+    "title": "Labyrinths",
+    "author": "Jorge Luis Borges",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Wind-Up Bird Chronicle",
+    "author": "Haruki Murakami",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "Where the Wild Things Are",
+    "author": "Maurice Sendak",
+    "category": "800 Literature",
+    "genre": "Children's books"
+  },
+  {
+    "title": "A Dance to the Music of Time",
+    "author": "Anthony Powell",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Kim",
+    "author": "Rudyard Kipling",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Kristin Lavransdatter",
+    "author": "Sigrid Undset",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "category": "900 History & Geography",
+    "genre": "Ancient"
+  },
+  {
+    "title": "The Poems of Robert Frost",
+    "author": "Robert Frost",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Structure of Scientific Revolutions",
+    "author": "Thomas Kuhn",
+    "category": "800 Literature",
+    "genre": "Nonfiction"
+  },
+  {
+    "title": "The Princess of Cleves",
+    "author": "Madame de La Fayette",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Infinite Jest",
+    "author": "David Foster Wallace",
+    "category": "800 Literature",
+    "genre": "Dark"
+  },
+  {
+    "title": "Homage to Catalonia",
+    "author": "George Orwell",
+    "category": "800 Literature",
+    "genre": "Memoir"
+  },
+  {
+    "title": "The Daughter of Time",
+    "author": "Josephine Tey",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "Fear and Loathing in Las Vegas",
+    "author": "Hunter S. Thompson",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "I Know Why the Caged Bird Sings",
+    "author": "Maya Angelou",
+    "category": "800 Literature",
+    "genre": "Autobiography"
+  },
+  {
+    "title": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Death in Venice",
+    "author": "Thomas Mann",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Awakening",
+    "author": "Kate Chopin",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Unnamable",
+    "author": "Samuel Beckett",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "The Garden of the Finzi-Continis",
+    "author": "Giorgio Bassani",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "A Room With a View",
+    "author": "E. M. Forster",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "At Swim Two-Birds",
+    "author": "Flann O'Brien",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Gilead",
+    "author": "Marilynne Robinson",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "My Brilliant Friend",
+    "author": "Elena Ferrante",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Confusions of Young Törless",
+    "author": "Robert Musil",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "La Regenta",
+    "author": "Clarín",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Old Wives' Tale",
+    "author": "Arnold Bennett",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Human Stain",
+    "author": "Philip Roth",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Betrothed",
+    "author": "Alessandro Manzoni",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Lost Estate",
+    "author": "Henri Alain-Fournier",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "If on a Winter's Night a Traveller",
+    "author": "Italo Calvino",
+    "category": "800 Literature",
+    "genre": "Books About Books"
+  },
+  {
+    "title": "The Mill on the Floss",
+    "author": "George Eliot",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Savage Detectives",
+    "author": "Roberto Bolaño",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "Speak, Memory",
+    "author": "Vladimir Nabokov",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Cold Comfort Farm",
+    "author": "Stella Gibbons",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Ivanhoe",
+    "author": "Sir Walter Scott",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Stories of John Cheever",
+    "author": "John Cheever",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Journey to the West",
+    "author": "Wu Cheng'en",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Mayor of Casterbridge",
+    "author": "Thomas Hardy",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Celestina Or The Tragic-Comedy Of Calisto And Melibea",
+    "author": "Fernando de Rojas",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Wolf Hall",
+    "author": "Hilary Mantel",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Complete Works of Plato",
+    "author": "Plato",
+    "category": "800 Literature",
+    "genre": "Mythological"
+  },
+  {
+    "title": "Housekeeping",
+    "author": "Marilynne Robinson",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "His Dark Materials",
+    "author": "Philip Pullman",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Sorrows of Young Werther",
+    "author": "Johann Wolfgang von Goethe",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Tarzan of the Apes",
+    "author": "Edgar Rice Burroughs",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The General Theory of Employment, Interest and Money",
+    "author": "John Maynard Keynes",
+    "category": "800 Literature",
+    "genre": "Nonfiction"
+  },
+  {
+    "title": "The Hollow Man",
+    "author": "John Dickson Carr",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "Go Tell it on the Mountain",
+    "author": "James Baldwin",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Things They Carried",
+    "author": "Tim O'Brien",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Postman Always Rings Twice",
+    "author": "James M. Cain",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Electric Kool-Aid Acid Test",
+    "author": "Tom Wolfe",
+    "category": "300 Social Sciences",
+    "genre": "Americana"
+  },
+  {
+    "title": "History",
+    "author": "Elsa Morante",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "category": "800 Literature",
+    "genre": "Cozy"
+  },
+  {
+    "title": "Cloud Atlas",
+    "author": "David Mitchell",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "Black Lamb and Grey Falcon",
+    "author": "Rebecca West",
+    "category": "300 Social Sciences",
+    "genre": "Cultural"
+  },
+  {
+    "title": "The Phantom Tollbooth",
+    "author": "Norton Juster",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Germinal",
+    "author": "Émile Zola",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "I, Claudius",
+    "author": "Robert Graves",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Persepolis",
+    "author": "Marjane Satrapi",
+    "category": "700 Arts & Recreation",
+    "genre": "Comics & Graphic Novels"
+  },
+  {
+    "title": "A Visit From The Goon Squad",
+    "author": "Jennifer Egan",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Hopscotch",
+    "author": "Julio Cortazar",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "Passing",
+    "author": "Nella Larsen",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Peter And Wendy",
+    "author": "J. M. Barrie",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Oedipus at Colonus",
+    "author": "Sophocles",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Kolyma Stories",
+    "author": "Varlam Shalamov",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Ferdydurke",
+    "author": "Witold Gombrowicz",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "The Devil to Pay in the Backlands",
+    "author": "Joao Guimaraes Rosa",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Brief Wondrous Life of Oscar Wao",
+    "author": "Junot Diaz",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Elements of Style",
+    "author": "E. B. White, William Strunk Jr.",
+    "category": "800 Literature",
+    "genre": "Nonfiction"
+  },
+  {
+    "title": "A Death in the Family",
+    "author": "James Agee",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Clarissa",
+    "author": "Samuel Richardson",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Moonstone",
+    "author": "Wilkie Collins",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Quiet American",
+    "author": "Graham Greene",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Middlesex",
+    "author": "Jeffrey Eugenides",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Man Who Loved Children",
+    "author": "Christina Stead",
+    "category": "800 Literature",
+    "genre": "Family & Relationships"
+  },
+  {
+    "title": "A Vindication of the Rights of Woman",
+    "author": "Mary Wollstonecraft",
+    "category": "300 Social Sciences",
+    "genre": "Cultural"
+  },
+  {
+    "title": "I Capture the Castle",
+    "author": "Dodie Smith",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Memoirs From Beyond the Grave",
+    "author": "François-Auguste-René de Chateaubriand",
+    "category": "800 Literature",
+    "genre": "Memoir"
+  },
+  {
+    "title": "The Education of Henry Adams",
+    "author": "Henry Adams",
+    "category": "800 Literature",
+    "genre": "Autobiography"
+  },
+  {
+    "title": "Americanah",
+    "author": "Chimamanda Ngozi Adichie",
+    "category": "800 Literature",
+    "genre": "Contemporary"
+  },
+  {
+    "title": "The Ragged Trousered Philanthropists",
+    "author": "Robert Tressell, Peter Miles",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "We",
+    "author": "Yevgeny Zamyatin",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "History of My Life",
+    "author": "Giacomo Casanova",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Das Kapital",
+    "author": "Karl Marx",
+    "category": "800 Literature",
+    "genre": "Nonfiction"
+  },
+  {
+    "title": "The Human Comedy",
+    "author": "Honoré de Balzac",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Solaris",
+    "author": "Stanislaw Lem",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "A Fine Balance",
+    "author": "Rohinton Mistry",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "American Pastoral",
+    "author": "Philip Roth",
+    "category": "800 Literature",
+    "genre": "Family & Relationships"
+  },
+  {
+    "title": "Jude the Obscure",
+    "author": "Thomas Hardy",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "category": "800 Literature",
+    "genre": "Children's books"
+  },
+  {
+    "title": "The Sea, The Sea",
+    "author": "Iris Murdoch",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Philosophical Investigations",
+    "author": "Ludwig Wittgenstein",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "Our Mutual Friend",
+    "author": "Charles Dickens",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "Notes from the Underground",
+    "author": "Fyodor Dostoevsky",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Relativity",
+    "author": "Albert Einstein",
+    "category": "000 Generalities",
+    "genre": "Encyclopedic"
+  },
+  {
+    "title": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick",
+    "category": "500 Science",
+    "genre": "Cyberpunk"
+  },
+  {
+    "title": "Another Country",
+    "author": "James Baldwin",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Let Us Now Praise Famous Men",
+    "author": "James Agee",
+    "category": "300 Social Sciences",
+    "genre": "Americana"
+  },
+  {
+    "title": "Collected Poems",
+    "author": "Wallace Stevens",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Critique of Pure Reason",
+    "author": "Immanuel Kant",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "The Origins of Totalitarianism",
+    "author": "Hannah Arendt",
+    "category": "300 Social Sciences",
+    "genre": "Cultural"
+  },
+  {
+    "title": "The Myth of Sisyphus",
+    "author": "Albert Camus",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Notebooks of Malte Laurids Brigge",
+    "author": "Rainer Maria Rilke",
+    "category": "800 Literature",
+    "genre": "Diaries & Journals"
+  },
+  {
+    "title": "The Federalist Papers",
+    "author": "Alexander Hamilton, James Madison, John Jay",
+    "category": "800 Literature",
+    "genre": "Mythological"
+  },
+  {
+    "title": "The Razor's Edge",
+    "author": "W. Somerset Maugham",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "W, or the Memory of Childhood",
+    "author": "Georges Perec",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "War of the Worlds",
+    "author": "H. G. Wells",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Atlas Shrugged",
+    "author": "Ayn Rand",
+    "category": "800 Literature",
+    "genre": "Dystopian"
+  },
+  {
+    "title": "Stranger in a Strange Land",
+    "author": "Robert A. Heinlein",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Parade's End",
+    "author": "Ford Madox Ford",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Souls of Black Folk",
+    "author": "W. E. B. Du Bois",
+    "category": "300 Social Sciences",
+    "genre": "Cultural"
+  },
+  {
+    "title": "The Glass Bead Game",
+    "author": "Hermann Hesse",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Joy Luck Club",
+    "author": "Amy Tan",
+    "category": "800 Literature",
+    "genre": "Family & Relationships"
+  },
+  {
+    "title": "The Feminine Mystique",
+    "author": "Betty Friedan",
+    "category": "300 Social Sciences",
+    "genre": "Counselling"
+  },
+  {
+    "title": "The Prophet",
+    "author": "Kahlil Gibran",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Crying of Lot 49",
+    "author": "Thomas Pynchon",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "Effi Briest",
+    "author": "Theodor Fontane",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Melmoth the Wanderer",
+    "author": "Charles Robert Maturin",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Parallel Lives",
+    "author": "Plutarch",
+    "category": "900 History & Geography",
+    "genre": "Ancient"
+  },
+  {
+    "title": "Ramayana",
+    "author": "Valmiki",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Ragtime",
+    "author": "E. L. Doctorow",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Play It As It Lays",
+    "author": "Joan Didion",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Code of the Woosters",
+    "author": "P. G. Wodehouse",
+    "category": "800 Literature",
+    "genre": "Cozy"
+  },
+  {
+    "title": "Jacques the Fatalist and His Master",
+    "author": "Denis Diderot",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "Gormenghast",
+    "author": "Mervyn Peake",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "Eugene Onegin",
+    "author": "Alexander Pushkin",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Casino Royale",
+    "author": "Ian Fleming",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Princess Bride",
+    "author": "William Goldman",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Immoralist",
+    "author": "André Gide",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Household Tales",
+    "author": "Brothers Grimm",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Bluest Eye",
+    "author": "Toni Morrison",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Bouvard et Pécuchet",
+    "author": "Gustave Flaubert",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "Waiting for the Barbarians",
+    "author": "J. M. Coetzee",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Pensées",
+    "author": "Blaise Pascal",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Roots",
+    "author": "Alex Haley",
+    "category": "800 Literature",
+    "genre": "Biography"
+  },
+  {
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "category": "000 Generalities",
+    "genre": "Encyclopedic"
+  },
+  {
+    "title": "Tractatus Logico-Philosophicus",
+    "author": "Ludwig Wittgenstein",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "The Secret Agent",
+    "author": "Joseph Conrad",
+    "category": "800 Literature",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Castle of Otranto",
+    "author": "Horace Walpole",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Moll Flanders",
+    "author": "Daniel Defoe",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Amerika",
+    "author": "Franz Kafka",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "Revolutionary Road",
+    "author": "Richard Yates",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "A Doll's House",
+    "author": "Henrik Ibsen",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Ada or Ardor",
+    "author": "Vladimir Nabokov",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "Death Comes for the Archbishop",
+    "author": "Willa Cather",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Bartleby the Scrivener",
+    "author": "Herman Melville",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Death of the Heart",
+    "author": "Elizabeth Bowen",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Eminent Victorians",
+    "author": "Lytton Strachey",
+    "category": "800 Literature",
+    "genre": "Biography"
+  },
+  {
+    "title": "Froth on the daydream",
+    "author": "Boris Vian",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "Sister Carrie",
+    "author": "Theodore Dreiser",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Passion According to G.H.",
+    "author": "Clarice Lispector",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Social Contract",
+    "author": "Jean-Jacques Rousseau",
+    "category": "800 Literature",
+    "genre": "Nonfiction"
+  },
+  {
+    "title": "Season of Migration to the North",
+    "author": "Al-Tayyib Salih",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Dubliners",
+    "author": "James Joyce",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "The Vicar of Wakefield",
+    "author": "Oliver Goldsmith",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Thirty-Nine Steps",
+    "author": "John Buchan",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Nine Stories",
+    "author": "J. D. Salinger",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "A Handful of Dust",
+    "author": "Evelyn Waugh",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "Titus Groan",
+    "author": "Mervyn Peake",
+    "category": "800 Literature",
+    "genre": "Dark"
+  },
+  {
+    "title": "Fortunata and Jacinta",
+    "author": "Benito Pérez Galdós",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Through the Looking Glass",
+    "author": "Lewis Carroll",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "The Hunchback of Notre-Dame",
+    "author": "Victor Hugo",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Joseph and His Brothers",
+    "author": "Thomas Mann",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Fall",
+    "author": "Albert Camus",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Poet in New York",
+    "author": "Federico García Lorca",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Perfume",
+    "author": "Patrick Suskind",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Way We Live Now",
+    "author": "Anthony Trollope",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Second World War",
+    "author": "Winston Churchill",
+    "category": "800 Literature",
+    "genre": "20th century"
+  },
+  {
+    "title": "The Book of Job",
+    "author": "Unknown",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "Dispatches",
+    "author": "Michael Herr",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Lost Illusions",
+    "author": "Honoré de Balzac",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "Red Cavalry",
+    "author": "Isaac Babel",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Complete Poems",
+    "author": "Elizabeth Bishop",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Four Quartets",
+    "author": "T. S. Eliot",
+    "category": "800 Literature",
+    "genre": "Experimental"
+  },
+  {
+    "title": "The English Patient",
+    "author": "Michael Ondaatje",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Naked and the Dead",
+    "author": "Norman Mailer",
+    "category": "800 Literature",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Twenty Thousand Leagues Under the Sea",
+    "author": "Jules Verne",
+    "category": "800 Literature",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  },
+  {
+    "title": "Stories of Ernest Hemingway",
+    "author": "Ernest Hemingway",
+    "category": "700 Arts & Recreation",
+    "genre": "Drama"
+  },
+  {
+    "title": "Sanctuary",
+    "author": "William Faulkner",
+    "category": "800 Literature",
+    "genre": "Absurdist"
+  },
+  {
+    "title": "Satanic Verses",
+    "author": "Salman Rushdie",
+    "category": "800 Literature",
+    "genre": "Allegorical"
+  },
+  {
+    "title": "The Histories of Herodotus",
+    "author": "Herodotus",
+    "category": "900 History & Geography",
+    "genre": "Ancient"
+  },
+  {
+    "title": "Harriet the Spy",
+    "author": "Louise Fitzhugh",
+    "category": "800 Literature",
+    "genre": "Coming of age"
+  }
+]
