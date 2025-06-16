@@ -66,7 +66,7 @@ GENRE_GROUPS = [
 ]
 
 def main():
-    with open('ad_books.json', 'r') as file:
+    with open('books.json', 'r') as file:
         book_list = json.load(file)
        
     # Introduction
