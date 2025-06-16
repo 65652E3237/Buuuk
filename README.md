@@ -19,17 +19,17 @@ Welcome to Buuuk! This is a simple yet engaging Python book recommendation appli
 To use the program, follow these simple steps:
 
 1. Clone the Repository:
-   git clone https://github.com/65652E3237/Buuuk.git
+   ```git clone https://github.com/65652E3237/Buuuk.git```
 
 2. Navigate to the Project Directory:
-   cd Buuuk
+   ```cd Buuuk```
 
 3. Run the Program:
-   python main.py
+   ```python main.py```
 
 ## Acknowledgments
 
-A special thanks to <TechSnowOwl>(https://github.com/0x736e6f776f776c) for their invaluable assistance and guidance throughout the development of this project. Your support has been instrumental in bringing this idea to life!
+A special thanks to [TechSnowOwl](https://github.com/0x736e6f776f776c) for their invaluable assistance and guidance throughout the development of this project. Your support has been instrumental in bringing this idea to life!
 
 ## Contributing
 
